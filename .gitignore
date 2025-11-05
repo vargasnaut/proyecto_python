@@ -1,0 +1,16 @@
+# Ignorar cachés y entornos
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones de VS Code
+.vscode/
