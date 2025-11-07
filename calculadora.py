@@ -46,4 +46,4 @@ while True:
     elif opcion == "4":
         print("✅ Resultado:", dividir(num1, num2))
     else:
-        print("⚠️ Opción no válida. Intenta de nuevo.")
+        print(" Opción no válida. Intenta de nuevo.")
